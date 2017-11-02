@@ -20,8 +20,8 @@ Council Guidelines:
 8. The high council shall be responsible for reviewing all changes before opening a pull request to the Loopring repositories once a week.
 9. The high council shall be responsible for maintaining the council. Including, but not limited to, the nomination of members to vacant council seats followed by the initiation of a vote of the council, interactions with the Loopring team, and bringing structural changes up for vote.
 10. All reward distribution will be drafted by the high council and presented to the council for a vote.
-11. A council, or high council, member can choose to step down at any time.
-12. A council, or high council, seat can be revoked for reasons including, but not limited to, lack of involvement or misconduct. The process for revoking a seat requires the approval of at least 5 council members.
+11. A council, or high council member can choose to step down at any time.
+12. A council, or high council seat can be revoked for reasons including, but not limited to, lack of involvement or misconduct. The process for revoking a seat requires the approval of at least 5 council members.
 
 Council Transition:
 
